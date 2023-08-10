@@ -1,0 +1,43 @@
+{
+	"$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-types/cspell.schema.json",
+	"words": [
+		"autoincrement",
+		"Baatchia",
+		"cssnano",
+		"cuid",
+		"datasource",
+		"datepicker",
+		"datetime",
+		"eslintcache",
+		"fullhuman",
+		"headlessui",
+		"hookform",
+		"jotai",
+		"msedge",
+		"NEXTAUTH",
+		"nextjs",
+		"Parens",
+		"planetscale",
+		"pnpm",
+		"purgecss",
+		"remixicon",
+		"superjson",
+		"tailwindcss",
+		"tanstack",
+		"trpc",
+		"tsbuildinfo",
+		"tsup",
+		"typeof",
+		"varchar",
+		"vercel",
+		"webp",
+		"xsgames"
+	],
+	"ignorePaths": [
+		"pnpm-lock.yaml",
+		"*.tsbuildinfo",
+		".cspellcache",
+		".prettier-cache",
+		".eslintcache"
+	]
+}
